@@ -1,0 +1,8 @@
+{
+  "name": "hrid",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Generate random human readable ids",
+  "main": "./src/index.js",
+  "license": "MIT"
+}
