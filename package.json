@@ -1,8 +1,29 @@
 {
   "name": "hrid",
   "version": "0.0.1",
-  "private": true,
   "description": "Generate random human readable ids",
   "main": "./src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngoValente/hrid.git"
+  },
+  "keywords": [
+    "human",
+    "readable",
+    "identifier",
+    "generator",
+    "id",
+    "random",
+    "word",
+    "name"
+  ],
+  "author": "Ingo Valente",
+  "bugs": {
+    "url": "https://github.com/IngoValente/hrid/issues"
+  },
+  "homepage": "https://github.com/IngoValente/hrid#readme"
 }
