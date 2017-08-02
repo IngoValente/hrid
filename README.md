@@ -28,9 +28,9 @@ There's a couple of simple options you can set. See the below example:
 
 ## Installation
 
-Install HRID using NPM:
+Install using yarn:
 
-    npm install hrid
+    yarn add IngoValente/hrid
 
 ## License
 
